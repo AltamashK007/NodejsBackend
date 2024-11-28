@@ -1,0 +1,52 @@
+# Node modules
+
+node_modules/
+
+package-lock.json
+
+package.json
+
+# Logs
+
+logs
+
+*.log
+
+npm-debug.log*
+
+
+# Environment variables
+
+.env
+
+
+# Build output
+
+dist/
+
+build/
+
+
+# Temporary files
+
+tmp/
+
+temp/
+
+
+# IDE specific files
+
+.DS_Store
+
+.idea/
+
+.vscode/
+
+
+# OS specific files
+
+Thumbs.db
+
+ehthumbs.db
+
+.DS_Store
